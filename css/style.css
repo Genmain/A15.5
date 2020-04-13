@@ -1,0 +1,12 @@
+
+#source-tail-text{
+    /* background: lightgrey; */
+    margin: 10px 0 0 0;
+}
+.pad {
+    display: flex;
+    padding: 0;
+    margin: 10px;
+    align-items: center;
+    justify-content: right;
+}
